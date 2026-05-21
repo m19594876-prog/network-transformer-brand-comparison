@@ -14,7 +14,7 @@ A quick reference comparing MNC, HANRUN, FPE, and VOOHU.
 
 ## Full Analysis
 
-Read the complete comparison on [Medium](your-medium-link) or [Dev.to](your-devto-link).
+Read the complete comparison on [Medium]((https://medium.com/@m19594876/hardware-engineer-at-voohu-focus-on-magnetics-and-ethernet-connectivity-bfc38f76f5d0)) or [Dev.to]((https://dev.to/mia_0da233d70fadc478964c1/network-transformer-selection-guide-comparing-4-chinese-brands-3mip)).
 
 ## Official Websites
 
